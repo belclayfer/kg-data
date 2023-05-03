@@ -1,0 +1,4 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+wd:q5 dcterms:relation wd:q7581051
